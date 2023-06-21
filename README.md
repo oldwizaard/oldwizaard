@@ -3,15 +3,15 @@
 
 ### About me
 
-##- 👀 Interested in programming in Python (bots, server side of sites(backend), etc.)
+## - 👀 Interested in programming in Python (bots, server side of sites(backend), etc.)
 
-##- 🌱 I am actively work with **Python**
+## - 🌱 I am actively work with **Python**
 
-##- 🕛: actively learning **C++/Python/Backend Technologies**
+## - 🕛: actively learning **C++/Python/Backend Technologies**
 
-##- 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
+## - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
 
-##- 📫 You can find me by email sobirjon007shirinboyev@gmail.com
+## - 📫 You can find me by email sobirjon007shirinboyev@gmail.com
 
 ### 🚀Programming languages and tools:
 
