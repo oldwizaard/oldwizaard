@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm @oldwizard, my name is Sobir</h1>
+<h1 align="center">👋 Hi, I'm @oldwizard, my name is old_wizaard</h1>
 
 
 ### About me
