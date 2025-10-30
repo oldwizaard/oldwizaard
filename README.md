@@ -36,11 +36,11 @@
 ### ⚡ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=old_wizaard&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oldwizaard&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=old_wizaard&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldwizaard&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -69,9 +69,9 @@
 ### ❤️ Views & Followers  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=old_wizaard&style=for-the-badge&color=blue"/>
-  <a href="https://github.com/old_wizaard?tab=followers">
-    <img src="https://img.shields.io/github/followers/old_wizaard?style=for-the-badge&color=black"/>
+  <img src="https://komarev.com/ghpvc/?username=oldwizaard&style=for-the-badge&color=blue"/>
+  <a href="https://github.com/oldwizaard?tab=followers">
+    <img src="https://img.shields.io/github/followers/oldwizaard?style=for-the-badge&color=black"/>
   </a>
 </p>
 
