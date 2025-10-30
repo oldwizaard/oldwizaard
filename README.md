@@ -1,68 +1,62 @@
-<h1 align="center">👋 Hi, I'm @oldwizard, my name is old_wizaard</h1>
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/old_wizaard">old_wizaard</a></h1>
+<h3 align="center">Backend Developer (Python / Django / REST APIs)</h3>
 
+---
 
-### About me
+### 👨‍💻 About Me  
 
-## - 👀 Interested in programming in Python (bots, server side of sites(backend), etc.)
+- 🐍 Passionate about backend development with **Python (Django, DRF)**  
+- 🚀 Currently learning **C++** and exploring full-stack technologies  
+- 🤖 Building bots, APIs, and scalable backend systems  
+- 📫 Reach me: **oldwizaard@gmail.com**  
+- 💬 Also on Telegram & Instagram: **@old_wizaard**
 
-## - 🌱 I am actively work with **Python**
+---
 
-## - 🕛: actively learning **C++/Python/Backend Technologies**
+### 🛠️ Tech Stack  
 
-## - 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
-
-## - 📫 You can find me by email sobirjon007shirinboyev@gmail.com
-
-### 🚀Programming languages and tools:
-
-<p align="left">  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-   <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" height='45px', width="45px"/></a>
-    <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <a href="https://selenium-python.readthedocs.io/" target="_blank"> <img src="https://selenium-python.readthedocs.io/_static/logo.png" width="50"/> </a>
-     <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" height='40px', width="40px"/> </a>
-    <a href="https://vuex.vuejs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height='40px', width="40px"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-<!--     <a href="https://nuxtjs.org/" target="_blank"> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" height='40px', width="40px"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" height='40px', width="40px"/> </a>
-    <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" height='40px', width="40px"/> </a> -->
-<!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> -->
-<!--     <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a> -->
-<!--     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> -->
-    <a href="https://docs.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
-    <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://www.postgresql.org//media/img/about/press/elephant.png" height='40px', width="40px"/> </a>
-    <a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
-<br/>
+| Languages | Frameworks | Tools & DB |
+|------------|-------------|-------------|
+| Python 🐍, JavaScript ⚡, C++ 💻 | Django 🧩, DRF ⚙️, React ⚛️ | Docker 🐳, Git, PostgreSQL 🐘 |
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sad-proger's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaD-Pr0gEr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python.png" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+  <a href="https://react.dev/"><img src="https://img.icons8.com/office/48/000000/react.png"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+  <a href="https://docs.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+  <a href="https://github.com/"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 </p>
 
-### 📊 My GitHub stats
+---
 
-  <br/>
-  <div>
-    <img alt="SaD-Pr0gEr Github Stats" src="https://github-readme-stats-sigma-lilac-86.vercel.app/api?username=SaD-Pr0gEr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" style="width: 50%;"/>
-    <img alt="SaD-Pr0gEr Github Top Languages" src="https://github-readme-stats-sigma-lilac-86.vercel.app/api/top-langs/?username=SaD-Pr0gEr&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true" style="width: 50%;"/>
-  </div>  
-  <br/>
+### ⚡ GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=old_wizaard&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=old_wizaard&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=old_wizaard&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-### Codewars
-<div><img src="https://www.codewars.com/users/Aren62/badges/large" /></div>
-              
+---
 
-### ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=oldwizardmtb">
-</a>
-<a href="https://github.com/oldwizardmtb?tab=followers"><img src="https://img.shields.io/github/followers/oldwizardmtb?label=Followers&style=social" alt="GitHub Badge"></a>
+### ❤ Views & Followers  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=old_wizaard&style=for-the-badge&color=blue"/>
+  <a href="https://github.com/old_wizaard?tab=followers">
+    <img src="https://img.shields.io/github/followers/old_wizaard?style=for-the-badge&color=black"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em>  
+</p>
