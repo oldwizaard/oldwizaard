@@ -48,8 +48,8 @@
 ### 🧠 Codewars  
 
 <div align="center">
-  <a href="https://www.codewars.com/users/Aren62">
-    <img src="https://www.codewars.com/users/Aren62/badges/large" alt="Codewars badge for old_wizaard" />
+  <a href="https://www.codewars.com/users/old_wizaard">
+    <img src="https://www.codewars.com/users/old_wizaard/badges/large" alt="Codewars badge for old_wizaard" />
   </a>
 </div>
 
