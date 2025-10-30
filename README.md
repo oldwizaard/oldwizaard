@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/old_wizaard">old_wizaard</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/oldwizaard">old_wizaard</a></h1>
 <h3 align="center">Backend Developer (Python / Django / REST APIs)</h3>
 
 ---
